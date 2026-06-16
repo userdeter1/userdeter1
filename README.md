@@ -8,7 +8,7 @@ I'm Dioubi Issam, a Computer Science Engineering student and AI Developer with a
 
 My work sits at the intersection of software engineering and AI, where I design and build solutions that are not only technically sound, but also useful in real-world contexts.
 
-I'm comfortable working across the stack — from Python and Java for backend and ML, to HTML, CSS, and JavaScript for clean, functional interfaces. I care about code clarity, performance, and reliability, especially when systems need to operate under real constraints.
+I'm comfortable working across the stack — from Python and Java and ML, to React and CSS for clean, functional interfaces. I care about code clarity, performance, and reliability, especially when systems need to operate under real constraints.
 
 I'm continuously learning, experimenting, and refining my skills, with the goal of building intelligent systems that actually work in production, not just in demos.
 
