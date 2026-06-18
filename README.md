@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Computer Science Engineer Student & AI Developer
 -------------------------------------------------------
 
-I'm Dioubi Issam, a Computer Science Engineering student and AI Developer with a strong focus on Agentic AI and applied machine learning and data-driven solving.
+I'm Dioubi Issam, a Computer Science Engineering student and AI Developer with a strong focus on Agentic AI with framework Agno and applied machine learning and data-driven solving.
 
 My work sits at the intersection of software engineering and AI, where I design and build solutions that are not only technically sound, but also useful in real-world contexts.
 
